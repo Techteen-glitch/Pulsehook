@@ -3,9 +3,6 @@
 PulseHook is an Android digital-wellbeing app that helps you put limits on time spent in selected social apps. 
 It monitors daily use of Instagram and TikTok, then shows a reminder screen when your configured limit is reached.
 <img width="222" height="411" alt="image" src="https://github.com/user-attachments/assets/5618054b-4923-420e-a544-77ea74e72781" />
-<img width="210" height="354" alt="image" src="https://github.com/user-attachments/assets/cf03065f-b9eb-4cd0-a373-2c342c0fe4da" />
-<img width="216" height="431" alt="image" src="https://github.com/user-attachments/assets/f04c3c34-cdbc-47eb-9aea-57953e79e85f" />
-
 ## Why PulseHook?
 
 - Choose whether to monitor Instagram, TikTok, or both.
@@ -16,6 +13,8 @@ It monitors daily use of Instagram and TikTok, then shows a reminder screen when
 - Resume monitoring after a device reboot when the blocker is enabled.
 
 The app uses Android's Usage Stats and a foreground service for monitoring. Usage and goals are stored in the app's local preferences.
+<img width="210" height="354" alt="image" src="https://github.com/user-attachments/assets/cf03065f-b9eb-4cd0-a373-2c342c0fe4da" />
+<img width="216" height="431" alt="image" src="https://github.com/user-attachments/assets/f04c3c34-cdbc-47eb-9aea-57953e79e85f" />
 
 ## Get started
 
